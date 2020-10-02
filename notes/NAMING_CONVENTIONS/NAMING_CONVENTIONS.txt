@@ -1,0 +1,8 @@
+obj_xxx						//this is for objects used in the game
+oXxx						//is for controller or META objects - like obj camera, text control, game...
+pXxx						//is for parent objects ONLY
+spr_obj_state_direction		//is how you name a sprite for a direction based character
+spr_obj						//is how you name a static or simple object related sprite
+fXxx						//is how you name a font
+
+other assets go as type_name

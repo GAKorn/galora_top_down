@@ -1,1 +1,2 @@
 /// @description ???
+game_restart();
